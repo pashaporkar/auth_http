@@ -1,4 +1,4 @@
 asynctest
-aiohttp==3.7.4
-pyjwt==2.1.0
+aiohttp
+pyjwt
 pydantic-settings
