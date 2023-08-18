@@ -1,4 +1,4 @@
-# Python Authentication Assignment
+# Python Python DevOps Engineer Assignment
 
 This project implements an authorization flow between a client, an Authorization Server, and a Resource API.
 
